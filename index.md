@@ -1,8 +1,6 @@
 ## About Me
 
-What's up? hey\|you
-
-I am an awesome student at Lehigh, you should hire me!
+I am a junior at Lehigh University double majoring in Finance and Business Analytics.
 
 <!-- Upload your own photo and change the path -->
 
