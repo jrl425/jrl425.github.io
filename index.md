@@ -1,12 +1,10 @@
 ## About Me
 
-I am a junior at Lehigh University double majoring in Finance and Business Analytics.
+I am a junior at Lehigh University double majoring in Finance and Business Analytics. During my time at Lehigh University, I actively pursued practical experiences through internships and leadership roles. As part of the Lehigh Consulting Group, I led a team focused on improving marketing and business strategies for a local company. My summer in Milan studying abroad was a fantastic opportunity, providing firsthand exposure to international business practices. Additionally, I interned at a local consulting firm and explored corporate social responsibility in coursework. Currently, I'm focused on refining my skills in financial analysis and portfolio management, while also exploring opportunities in consulting and banking. I'm enthusiastic about potential collaborations and eager to discuss how I can contribute to your team. Let's connect and chat further!
 
 <!-- Upload your own photo and change the path -->
 
-<p style="text-align:center;">
-  <img class="img-circle" src="https://github.com/donbowen/donbowen.github.io/raw/master/images/logo.png" width="50%">
-</p>
+
 
 ---
 
