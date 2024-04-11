@@ -42,15 +42,13 @@ _**[Some personal project](/pdf/sample_presentation.pdf)**_
 
 ## Career Objectives
 
-Write what you want. 
-
-Sell yourself!
+My career objectives revolve around pursuing opportunities in finance or consulting, with a particular interest in areas such as Private Banking, Wealth Management, and Private Capital. I aspire to leverage my skills and experiences to make impactful contributions within these sectors, aiming towards eventual leadership roles. Considering the dynamic nature of these fields, I am also open to furthering my education through an MBA program to enhance my knowledge and leadership capabilities, ultimately positioning myself for long-term success and influence.
 
 ---
 
 ## Hobbies
 
-Maybe include a little about these, especially if they are the kinds of things that work well in interviews.
+During my free time, I find enjoyment in playing and watching sports, particularly as an ice hockey referee—it's both rewarding and exhilarating. Giving back to my community through service is something I enjoy as well. Traveling is a major passion of mine; exploring new cultures broadens my perspective and fuels my curiosity. Additionally, my time in Milan sparked a genuine interest in the art of pizza-making, which has evolved into a delightful hobby.
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
