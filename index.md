@@ -18,13 +18,6 @@ This report details the findings of my 10-k analysis
 
 <img src="images/10k.jpg?raw=true"/>
 
----
-
-_**[Regression Practice](Regression_practice)**_
-
-Or: The process that created this page can be used to show off your whole midterm analysis file, as is.
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
@@ -35,11 +28,6 @@ This wesbite is for my midterm project. It caluclates a user's optimal portfolio
 
 <img src="images/Advisor.jpg?raw=true"/> 
 
----
-
-_**[Some personal project](/pdf/sample_presentation.pdf)**_
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
