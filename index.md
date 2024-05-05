@@ -30,6 +30,9 @@ Or: The process that created this page can be used to show off your whole midter
 
 _**[Wealth Advisor Project](https://wealth-advisor-dashboard-zxeuck5wssugu23mf7cjon.streamlit.app/)**_
 
+This wesbite is for my midterm project. It caluclates a user's optimal portfolio then displays the lifetime returns of that portfolio.
+
+
 <img src="images/Advisor.jpg?raw=true"/> 
 
 ---
