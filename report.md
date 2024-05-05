@@ -1,3 +1,7 @@
+---
+layout: wide_default
+---    
+
 # Report File
 
 ## Summary
@@ -15,7 +19,8 @@ In this project, the sample was the list of 2022 S&P 500 Stocks and this came fr
 
 ### How are the return variables built and modified? 
 - Version 1, I went for a simple approach and used a merge because I had all of the data in the two data frames that I needed in order to satisfy version 1. I merged left on symbol and filing date and right on ticker and date.
-- 
+
+- 
 For Version 2,  I initialized results_df by extracting the 'Symbol', 'CIK', and 'Filing Date' columns from merged_df . Then, I iterated over each row in results_df, using a loop to search stock_rets for stock returns that matched each company's ticker symbol and filing date, extending to two days post-filing to capture a short-term return window. In cases where matching return data was found, I inserted these values into newly created columns within results_df. Then, I calculated the cumulative returns for the period from the filing date to two days after. Last, I refined results_df to only include essential columns—'Symbol', 'CIK', 'Filing Date', and the newly computed 'Cumulative Return t to t+2'
 .- 
 Version 3 was much simpler because I already built a very strong foundation in V2. For Version 3, I practically used the same code from2V@, but this time I edited the range to start at day 3 and end at day 10. For this, I used the range (3, 11), as 3 is inclusive and 11 is exclusive. After this, I needed to change the newly computed result to ‘Cumulative Return t to t+2.’
