@@ -16,7 +16,7 @@ _**[10-k Sentiment Analysis](report)**_
 
 This report details the findings of my 10-k analysis
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/10k.jpg?raw=true"/>
 
 ---
 
