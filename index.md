@@ -30,7 +30,7 @@ Or: The process that created this page can be used to show off your whole midter
 
 _**[Wealth Advisor Project](https://wealth-advisor-dashboard-zxeuck5wssugu23mf7cjon.streamlit.app/)**_
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Advisor.jpg?raw=true"/>
 
 ---
 
