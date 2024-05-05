@@ -14,7 +14,7 @@ I am a junior at Lehigh University double majoring in Finance and Business Analy
 
 _**[10-k Sentiment Analysis](report)**_
 
-You can show off your midterm analysis by moving the report components and output into this file. Or...
+This report details the findings of my 10-k analysis
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
